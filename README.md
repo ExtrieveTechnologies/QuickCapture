@@ -2,6 +2,7 @@
 QuickCapture SDK by Extrieve 
 
 
+
 ## **Android Compression SDK**
 
 # API and integration Details
@@ -92,15 +93,15 @@ ImgHelper ImageHelper = new ImgHelper(this);
 
 Image Quality values are:
 
-enum ImageQuality {
-
-Photo_Quality,
-
-Document_Quality,
-
-Compressed_Document
-
-}
+    enum ImageQuality {
+    
+    Photo_Quality,
+    
+    Document_Quality,
+    
+    Compressed_Document
+    
+    }
 
 _Parameters:_  ImageQuality | Return: void
 
