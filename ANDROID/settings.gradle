@@ -1,0 +1,12 @@
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':sdk-release'
+include ':app',
+rootProject.name = "QuickCapture"
