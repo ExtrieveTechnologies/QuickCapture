@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">QuickCapture</string>
-
-    <!-- Strings used for fragments for navigation -->
-    <string name="request_permission">This sample needs camera permission.</string>
-</resources>
