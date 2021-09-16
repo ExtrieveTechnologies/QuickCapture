@@ -331,11 +331,6 @@ public class MainActivity extends AppCompatActivity {
         CameraSupport.CamConfigClass.ShowCaptureCountAndLimit = true;
 
         CameraSupport.CamConfigClass.UseDefaultCamera = false;
-
-//        CameraSupport.CamConfigClass.BottomStampData =
-//                "Current Set Image Configuration -> Layout : "+Layout+";Max file size : "+maxsize+" KB;DPI : "+DPI+";"+
-//          "\n26/05/2021 20:47:37,Dealer Id - 500222 lat - 17.6784923, lng - 75.914931109999999,12345678"+
-//             "\n26/05/2021 20:47:37,Dealer Id - 500222 lat - 17.6784923, lng - 75.914931109999999,12345678";
     }
 
     private void OpenCameraActivity(){
