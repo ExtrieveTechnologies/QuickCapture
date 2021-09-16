@@ -57,8 +57,8 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation "com.github.bumptech.glide:glide:4.11.0";
-    implementation files('E:\\SVN\\EX_MAIN_REPO\\techcomponents\\Capture\\MobileApp\\QC\\android\\v2.0\\sdk\\build\\outputs\\aar\\sdk-debug.aar')
-    //implementation files('<provide sdk arr file path>')
+    implementation files('E:\\GIT\\ANDROID\\SDK+DEMOAPP\\QuickCaptureSDK.aar')
+    //implementation files('<provide sdk arr file path (eg: path/QuickCaptureSDK.arr)>')
 }
 repositories {
     mavenCentral()
