@@ -1,8 +1,9 @@
+
 # QuickCapture
 QuickCapture SDK by Extrieve 
 Mobile Document Scanning SDK for Business Applications
 
-Mobile document capturing has increased due to digitization. This has led to new challenges, such as quality and infrastructure. Due to poor capture quality, a substantial number of documents must be recaptured. This increases staffing needs and decreases customer satisfaction. IT teams must also address increased network and storage demand. The Extrieve QuickCapture SDK addresses these difficulties. Quick Capture is a developer-friendly, ready-to-use SDK with document scanning features which require minimal change to existing applications. 
+Mobile document capturing has increased due to digitization. This has led to new challenges, such as quality and infrastructure. Due to poor capture quality, a substantial number of documents must be recaptured. This increases staffing needs and decreases customer satisfaction. IT teams must also address increased network and storage demand. The Extrieve QuickCapture SDK addresses these difficulties. Quick Capture is a developer-friendly, ready-to-use SDK with document scanning features which require minimal change to existing applications. 
 
 Extrieve Quick Capture SDK can be easily integrated into mobile or web applications, enabling them to use the camera on their mobile device as a dependable method of document scanning or capture. Optimized focus control ensure the capture of high-quality documents. Compression and conversion features help reduce the size of documents, which results in quicker uploads and infrastructure savings.
 
@@ -40,51 +41,51 @@ Camera Helper having a supporting class with static configuration
 **CameraSupport.CamConfigClass.**** CamConfigClass :**contains various configurations as follows:
 
 1.  **OutputPath**  - To set the output directory in which the captured images will be saved. Base app should have rights to write to the provided path.
+*CameraSupport.CamConfigClass._OutputPath_  = "pass output path as string";*
 
-CameraSupport.CamConfigClass._OutputPath_  = "pass output path as string";
+2.  **MaxPage**  - To set the number of captures to do on each camera session. And this can also control whether the capture mode is single or multi i.e..,
+*CameraSupport.CamConfigClass._MaxPage_  = 0;*
+	- *MaxPage <= 0*  : Unlimited Capture Mode  
+	- *MaxPage = 1*   : Limited Single Capture  
+	- *MaxPage > 1*   : Limited Multi Capture Mode
 
-1.  **MaxPage**  - To set the number of captures to do on each camera session. And this can also control whether the capture mode is single or multi i.e..,
-2.  if  **MaxPage**  &lt;= 0 / not set: means  **unlimited**.If  **MaxPage**  &gt;= 1: means  **limited**.
+3.  **ColorMode -**  To Set the capture color mode- supporting color and 		  grayscale.
+		CameraSupport.CamConfigClass._ColorMode_  = 1; //1-RGB,2-GRAY
 
-CameraSupport.CamConfigClass._MaxPage_  = 0;
+4.  **CaptureReview -**  To Enable review for a capture session.
+		CameraSupport.CamConfigClass._CaptureReview_  = true/false; 
 
-_MaxPage_  &lt;= 0: unlimited || &gt;=1: limited || = 1 single shot mode
+5.  **DeviceInfo -**  Will share all general information about the device.
+		CameraSupport.CamConfigClass._DeviceInfo_;
 
-1.  **ColorMode -**  To Set the capture color mode- supporting color and grayscale.
+6.  **LastLogInfo -**  Will share all error details from CameraHelper.Will contains the last caught errors from camera helper section.
+		CameraSupport.CamConfigClass._LastLogInfo_;
 
-CameraSupport.CamConfigClass._ColorMode_  = 1; //1-RGB,2-GRAY
+7.  **CaptureSound -**  To Enable camera capture sound.
+		CameraSupport.CamConfigClass._CaptureSound_  = true;
 
-1.  **CaptureReview -**  To Enable review for a capture session.
+8.  **UseDefaultCamera**  - Can Manually set the native camera for any camera2 API failed devices
+		CameraSupport.CamConfigClass._UseDefaultCamera_  = true;
 
-CameraSupport.CamConfigClass._CaptureReview_  = true/false; 2.  **DeviceInfo -**  Will share all general information about the device.
+9.  **ShowCaptureCountAndLimit -**  Can enable/disable capture limit toast/message & captured number
+		CameraSupport.CamConfigClass._ShowCaptureCountAndLimit_  = true;
 
-CameraSupport.CamConfigClass._DeviceInfo_;
-
-1.  **LastLogInfo -**  Will share all error details from CameraHelper.Will contains the last caught errors from camera helper section.
-
-CameraSupport.CamConfigClass._LastLogInfo_;
-
-1.  **CaptureSound -**  To Enable camera capture sound.
-
-CameraSupport.CamConfigClass._CaptureSound_  = true;
-
-1.  **UseDefaultCamera**  - Can Manually set the native camera for any camera2 API failed devices
-
-CameraSupport.CamConfigClass._UseDefaultCamera_  = true;
-
-1.  **ShowCaptureCountAndLimit -**  Can enable/disable capture limit toast/message & captured number
-
-CameraSupport.CamConfigClass._ShowCaptureCountAndLimit_  = true;
-
-1.  **EnableFlash**  - Enable Document capture specific flash control for SDK camera.
-
-CameraSupport.CamConfigClass._EnableFlash_  = true;
-
+10.  **EnableFlash**  - Enable Document capture specific flash control for SDK camera.
+		CameraSupport.CamConfigClass._EnableFlash_  = true;
+		
+11.  **SDKInfo**  - Contains all version related information on SDK.
+		CameraSupport.CamConfigClass.SDKInfo;
+		
+12. **CameraToggle** - Toggle camera between front and back.
+		CameraSupport.CamConfigClass.CameraToggle = 2;  
+			- 0-Disable camera toggle option  
+			- 1-Enable camera toggle option with Front camera by default  
+			- 2-Enable camera toggle option with Back camera by default
+13. **EnableTouchToFocus**	- To enable touch to focus.
+		CameraSupport.CamConfigClass.EnableTouchToFocus = true;
+		 - true - Enable | false - Disable.
+		
 _CameraHelper_  class will be further optimized as part of the testing and development. Also there will be additional parameter options as well as license initialization as part of the SDK initialization process.
-
-1.  **SDKInfo**  - Contains all version related information on SDK.
-
-CameraSupport.CamConfigClass._SDKInfo__;_
 
 # ImgHelper
 
