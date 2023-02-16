@@ -15,10 +15,13 @@
 
         <ImageView
             android:id="@+id/displayImageView"
-            android:layout_width="wrap_content"
-            android:layout_height="517dp"
-            android:layout_marginTop="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center_horizontal|center_vertical"
             android:src="@drawable/ic_final_qc_logo" />
+
         <RelativeLayout
             android:id="@+id/shareImageButton"
             android:layout_width="wrap_content"
@@ -40,6 +43,7 @@
 
 
         </RelativeLayout>
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -72,7 +76,7 @@
         <Button
             android:id="@+id/getPictureButton"
             style="@style/Widget.AppCompat.Button"
-            android:layout_width="170dp"
+            android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_gravity="center_vertical|left"
             android:padding="5dp"
@@ -96,14 +100,28 @@
         <Button
             android:id="@+id/loadFromGalleryBtn"
             style="@style/Widget.AppCompat.Button"
-            android:layout_width="170dp"
+            android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_gravity="center_vertical|right"
             android:padding="5dp"
-            android:text="Load from gallery"
+            android:text="Load Image"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-            tools:layout_editor_absoluteX="16dp"
             android:visibility="visible"
+            tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="663dp" />
+
+        <Button
+            android:id="@+id/buildOutPutBtn"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center_vertical|center"
+            android:padding="5dp"
+            android:text="Build Output"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:visibility="visible"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="663dp" />
+
     </FrameLayout>
 </RelativeLayout>

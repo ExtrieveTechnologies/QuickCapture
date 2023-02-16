@@ -5,21 +5,25 @@ plugins {
 android {
     signingConfigs {
         release {
-
+            storeFile file('E:\\SVN\\EX_MAIN_REPO\\CODES\\Ak2\\QuickCaptureTest\\AndroidAppKeyStore\\QuickCaptureKeyStore.jks')
+            storePassword 'admin324'
+            keyAlias 'key0'
+            keyPassword 'admin324'
         }
     }
-    compileSdkVersion 30
+    compileSdkVersion 33
     buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "com.extrieve.quickcapture"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 33
         versionCode 1
-        versionName '1.0.8'
+        versionName '2.0.0'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         signingConfig signingConfigs.release
+        versionNameSuffix 'pro'
     }
 
     buildTypes {
@@ -46,6 +50,7 @@ android {
         includeInApk true
         includeInBundle true
     }
+    namespace 'com.extrieve.quickcapture'
 }
 
 dependencies {
@@ -56,9 +61,8 @@ dependencies {
     testImplementation 'junit:junit:4.13.1'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-    implementation "com.github.bumptech.glide:glide:4.11.0";
-    implementation files('E:\\GIT\\ANDROID\\SDK+DEMOAPP\\QuickCaptureSDK.aar')
-    //implementation files('<provide sdk arr file path (eg: path/QuickCaptureSDK.arr)>')
+    //implementation project(":sdk")
+    implementation files('libs/QCSDKv2.1.2.aar')
 }
 repositories {
     mavenCentral()
