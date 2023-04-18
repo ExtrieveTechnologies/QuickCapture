@@ -1,5 +1,5 @@
 
-# Extrieve QuickCapture Mobile Document scanning SDK
+# Extrieve QuickCapture Document scanning SDK
 QuickCapture SDK by Extrieve 
 Mobile Document Scanning SDK for Business Applications
 
