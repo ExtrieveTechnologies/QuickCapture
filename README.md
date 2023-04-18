@@ -1,7 +1,7 @@
 
 # Extrieve QuickCapture Document scanning SDK
 ## QuickCapture SDK by Extrieve 
-###Mobile Document Scanning SDK for Business Applications
+### Mobile Document Scanning SDK for Business Applications
 
 Mobile document capturing has increased due to digitization. This has led to new challenges, such as quality and infrastructure. Due to poor capture quality, a substantial number of documents must be recaptured. This increases staffing needs and decreases customer satisfaction. IT teams must also address increased network and storage demand. The Extrieve QuickCapture SDK addresses these difficulties. Quick Capture is a developer-friendly, ready-to-use SDK with document scanning features which require minimal change to existing applications. 
 
