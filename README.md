@@ -16,7 +16,7 @@ Extrieve Quick Capture SDK can be easily integrated into mobile or web applicati
 - [Web SDK](https://github.com/)
 
 ### Flutter 
-- [Plugin](https://github.com/](https://pub.dev/packages/quickcapture)
+- [Plugin](https://pub.dev/packages/quickcapture)
 
 
 [© 1996 - 2023 Extrieve Technologies](https://www.extrieve.com/)
