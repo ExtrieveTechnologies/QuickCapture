@@ -1,5 +1,4 @@
-> ![QuickCapture
-> logo](https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/QuickCapture.png?raw=true)
+<img class="img-fluid" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/QuickCapture.png?raw=true" width="30%" alt="img-verification">
 
 # Extrieve QuickCapture Document scanning SDK
 
