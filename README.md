@@ -12,7 +12,7 @@ Extrieve Quick Capture SDK can be easily integrated into mobile or web applicati
 - [Android](https://github.com/ExtrieveTechnologies/Mobile-Document-Scanning-SDK-ANDROID)
 - [iOS](https://github.com/ExtrieveTechnologies/Mobile-Document-Scanning-SDK-IOS)
 
-### Web SDK
+### Web SDK / JS library 
 - [Web SDK](https://github.com/)
 
 ### Flutter 
