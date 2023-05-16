@@ -14,7 +14,7 @@ Mobile document capturing has increased due to digitization. This has led to new
 - [iOS](https://github.com/ExtrieveTechnologies/Mobile-Document-Scanning-SDK-IOS)
 
 ### Web SDK / JS library 
-- [Web SDK](https://github.com/)
+- [Web SDK](https://github.com/ExtrieveTechnologies/Web-Document-Scanning-SDK-JS)
 
 ### Flutter 
 - [Plugin](https://pub.dev/packages/quickcapture)
