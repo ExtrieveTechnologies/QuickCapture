@@ -9,8 +9,8 @@
 Mobile document capturing has increased due to digitization. This has led to new challenges, such as quality and infrastructure. Due to poor capture quality, a substantial number of documents must be recaptured. This increases staffing needs and decreases customer satisfaction. IT teams must also address increased network and storage demand. The Extrieve QuickCapture SDK addresses these difficulties. Quick Capture is a developer-friendly, ready-to-use SDK with document scanning features which require minimal change to existing applications. 
 
 ### Mobile Native
-- [Android](https://github.com/ExtrieveTechnologies/Mobile-Document-Scanning-SDK-ANDROID)
-- [iOS](https://github.com/ExtrieveTechnologies/Mobile-Document-Scanning-SDK-IOS)
+- [Android](https://github.com/ExtrieveTechnologies/QuickCapture_Android)
+- [iOS](https://github.com/ExtrieveTechnologies/QuickCapture_IOS)
 
 ### Web SDK / JS library 
 - [Web SDK](https://github.com/ExtrieveTechnologies/Web-Document-Scanning-SDK-JS)
