@@ -1,7 +1,7 @@
 <img class="img-fluid" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/QuickCapture.png?raw=true" width="30%" alt="img-verification">
 
 # Extrieve QuickCapture AI Document scanning SDK.
-> AI based Capture, Identification, Compression , Optimisation & Conversion to TIFF and PDF.
+> AI based Capture, Identification, Compression , Optimisation & Conversion.
 
 ## QuickCapture SDK by Extrieve 
 
