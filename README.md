@@ -2,6 +2,8 @@
 
 # Extrieve QuickCapture AI Document scanning SDK.
 > AI based Capture, Identification, Compression , Optimisation & Conversion.
+> Control **DPI**,**Layout** & **Size** of output images, PDF & TIFF
+> **Developer-friendly** & **Easy to integration** SDK.
 
 ### Document Scanning SDK for Business Applications.
 
