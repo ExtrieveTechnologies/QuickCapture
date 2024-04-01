@@ -12,7 +12,7 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
         <td align="center" width="33%" style="border:0px; width:33.33%">
-            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="Docutain SDK Best quality"/>
+            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Best quality"/>
             <p>
             <b>Best quality</b>
             </p>
@@ -21,21 +21,21 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
             </p>
         </td>
         <td align="center" width="33%" style="border:0px; width:33.33%">
-            <img src="https://docs.docutain.com/img/datasafety.svg" alt="Docutain SDK Easy integration"/>
+            <img src="https://docs.docutain.com/img/datasafety.svg" alt="QuickCapture SDK Easy integration"/>
             <p>
             <b>Easy integration</b>
             </p>
             <p>
-                The Docutain SDK is the easiest SDK you can find. Get started in less than a day.</br></br>
+                The QuickCapture SDK is the easiest SDK you can find. Get started in less than a day.</br></br>
             </p>
         </td>
         <td align="center" width="33%" style="border:0px; width:33.33%">
-            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="Docutain SDK Guaranteed data security"/>
+            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Guaranteed data security"/>
             <p>
             <b>Guaranteed data security</b>
             </p>
             <p>
-            The Docutain SDK works completely offline, locally on the device. No data transfer to server/third party. No data safety issues.
+            QuickCapture SDK works completely offline, locally on the device. No data transfer to server/third party. No data safety issues.
             </p>
         </td>
     </tr>
