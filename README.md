@@ -50,25 +50,25 @@ Document capturing has increased due to digitization. This has led to new challe
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
         <td align="center" width="14%" style="border:0px; width:14%">
-            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-android.svg" alt="QuickCapture SDK Getting started Android"/>
+            <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/android_icon.svg" alt="QuickCapture SDK Getting started Android"/>
             <p>
             <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_Android" title="QuickCapture SDK documentation">Getting started Android</a></b>
             </p>
         </td>
         <td align="center" width="14%" style="border:0px; width:14%">
-            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-ios.svg" alt="QuickCaptuer SDK Gettting started iOS"/>
+            <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/ios_icon.svg" alt="QuickCapture SDK Gettting started iOS"/>
             <p>
             <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_IOS" title="QuickCapture SDK documentation">Getting started iOS</br></br></a></b>
             </p>
         </td>
         <td align="center" width="14%" style="border:0px; width:14%">
-            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-reactnative.svg" alt="QuickCapture SDK Gettting started React Native"/>
+            <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/react_native_icon.svg" alt="QuickCapture SDK Gettting started React Native"/>
             <p>
             <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_react_native" title="QuickCapture SDK documentation">Getting started React Native</a></b>
             </p>
         </td>
          <td align="center" width="14%" style="border:0px; width:14%">
-            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-flutter.svg" alt="QuickCapture SDK Gettting started Flutter"/>
+            <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/flutter_icon.svg" alt="QuickCapture SDK Gettting started Flutter"/>
             <p>
             <b><a href="https://pub.dev/packages/quickcapture" title="QuickCapture SDK documentation">Getting started Flutter</a></b>
             </p>
