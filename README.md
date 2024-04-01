@@ -2,40 +2,42 @@
 
 # Extrieve QuickCapture AI Document scanning SDK.
 
-> AI based Capture, Identification, Compression , Optimisation & Conversion.
-
-> Control **DPI**,**Layout** & **Size** of output images, PDF & TIFF
-
-> **Developer-friendly** & **Easy to integration** SDK.
-Benefit from a super fast and easy integration by using our Ready-To-Use UI Components.
-
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
-        <td align="center" width="33%" style="border:0px; width:33.33%">
+       <td align="center" width="25%" style="border:0px; width:25%">
             <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Best quality"/>
             <p>
-            <b>Best quality</b>
+            <b>Ai</b>
             </p>
             <p>
-            Used daily by millions of users making millions of scans.
+            AI based Capture, Identification, Compression , Optimisation & Conversion.
             </p>
         </td>
-        <td align="center" width="33%" style="border:0px; width:33.33%">
+        <td align="center" width="25%" style="border:0px; width:25%">
             <img src="https://docs.docutain.com/img/datasafety.svg" alt="QuickCapture SDK Easy integration"/>
             <p>
-            <b>Easy integration</b>
+            <b>Complete control over Image</b>
             </p>
             <p>
-                The QuickCapture SDK is the easiest SDK you can find. Get started in less than a day.</br></br>
+                Control DPI, Layout & Size of output images, PDF & TIFF</br></br>
             </p>
         </td>
-        <td align="center" width="33%" style="border:0px; width:33.33%">
+         <td align="center" width="25%" style="border:0px; width:25%">
             <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Guaranteed data security"/>
             <p>
             <b>Guaranteed data security</b>
             </p>
             <p>
-            QuickCapture SDK works completely offline, locally on the device. No data transfer to server/third party. No data safety issues.
+            Works completely offline, locally on the device. No data transfer to server/third party.
+            </p>
+        </td>
+        <td align="center" width="25%" style="border:0px; width:25%">
+            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Guaranteed data security"/>
+            <p>
+            <b>Developer-friendly & Easy to integration</b>
+            </p>
+            <p>
+              Benefit from a super fast and easy integration by using our Ready-To-Use UI Components.  
             </p>
         </td>
     </tr>
