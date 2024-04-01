@@ -17,7 +17,7 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
             <b>Best quality</b>
             </p>
             <p>
-            Used daily by millions of users making millions of scans. Powered by the famous document management app Docutain.
+            Used daily by millions of users making millions of scans.
             </p>
         </td>
         <td align="center" width="33%" style="border:0px; width:33.33%">
