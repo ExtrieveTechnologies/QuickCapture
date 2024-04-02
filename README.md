@@ -14,7 +14,7 @@
             </p>
         </td>
         <td align="center" width="25%" style="border:0px; width:25%">
-            <img src="https://docs.docutain.com/img/datasafety.svg" alt="QuickCapture SDK Easy integration"/>
+            <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/IMG_CTRL.svg" alt="QuickCapture SDK Easy integration"/>
             <p>
             <b>Complete control over Image</b>
             </p>
@@ -23,7 +23,7 @@
             </p>
         </td>
          <td align="center" width="25%" style="border:0px; width:25%">
-            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Guaranteed data security"/>
+            <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/SECURE.svg" alt="QuickCapture SDK Guaranteed data security"/>
             <p>
             <b>Guaranteed data security</b>
             </p>
@@ -32,7 +32,7 @@
             </p>
         </td>
         <td align="center" width="25%" style="border:0px; width:25%">
-            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Guaranteed data security"/>
+            <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/DEV_FR.svg" alt="QuickCapture SDK Guaranteed data security"/>
             <p>
             <b>Developer-friendly & Easy to integration</b>
             </p>
