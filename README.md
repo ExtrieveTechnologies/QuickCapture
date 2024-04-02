@@ -4,8 +4,8 @@
 
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
-       <td align="center" width="25%" style="border:0px; width:25%">
-            <img src="https://docs.docutain.com/img/bestscanner.svg" alt="QuickCapture SDK Best quality"/>
+       <td align="center" width="25%" style="border:0px; width:25%;">
+            <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/AI_DOC.svg" alt="QuickCapture SDK Best quality"/>
             <p>
             <b>Ai</b>
             </p>
