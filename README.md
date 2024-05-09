@@ -66,7 +66,7 @@ Document capturing has increased due to digitization. This has led to new challe
         <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/react_native_icon.svg" alt="QuickCapture SDK Gettting started React Native"/>
             <p>
-            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_react_native" title="QuickCapture SDK documentation">Getting started React Native</a></b>
+            <b><a href="https://www.npmjs.com/package/@extrieve_technologies/quickcapture_react_native" title="QuickCapture SDK documentation">Getting started React Native</a></b>
             </p>
         </td>
          <td align="center" width="14%" style="border:0px; width:14%">
