@@ -4,7 +4,7 @@
 
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
-       <td align="center" width="25%" style="border:0px; width:25%;">
+       <td align="center" width="20%" style="border:0px; width:20%;">
             <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/AI_DOC.svg" alt="QuickCapture SDK Best quality"/>
             <p>
             <b>Ai</b>
@@ -13,7 +13,7 @@
             AI based Capture, Identification, Compression , Optimisation & Conversion.
             </p>
         </td>
-        <td align="center" width="25%" style="border:0px; width:25%">
+        <td align="center" width="20%" style="border:0px; width:20%">
             <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/IMG_CTRL.svg" alt="QuickCapture SDK Easy integration"/>
             <p>
             <b>Complete control over Image</b>
@@ -22,7 +22,16 @@
                 Control DPI, Layout & Size of output images, PDF & TIFF</br></br>
             </p>
         </td>
-         <td align="center" width="25%" style="border:0px; width:25%">
+        <td align="center" width="20%" style="border:0px; width:20%">
+            <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/IMG_CTRL.svg" alt="QuickCapture SDK Easy integration"/>
+            <p>
+            <b>Optical Code (QR Code & BAR Code) Features</b>
+            </p>
+            <p>
+                Optical Code(QR Code & BAR Code) Generation & Scanning</br></br>
+            </p>
+        </td>
+         <td align="center" width="20%" style="border:0px; width:20%">
             <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/SECURE.svg" alt="QuickCapture SDK Guaranteed data security"/>
             <p>
             <b>Guaranteed data security</b>
@@ -31,7 +40,7 @@
             Works completely offline, locally on the device. No data transfer to server/third party.
             </p>
         </td>
-        <td align="center" width="25%" style="border:0px; width:25%">
+        <td align="center" width="20%" style="border:0px; width:20%">
             <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/DEV_FR.svg" alt="QuickCapture SDK Guaranteed data security"/>
             <p>
             <b>Developer-friendly & Easy to integration</b>
