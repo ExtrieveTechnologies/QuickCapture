@@ -84,9 +84,16 @@ Document capturing has increased due to digitization. This has led to new challe
             <b><a href="https://pub.dev/packages/quickcapture" title="QuickCapture SDK documentation">Getting started Flutter</a></b>
             </p>
         </td> 
+         <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/flutter_icon.svg" alt="QuickCapture SDK Gettting started Flutter"/>
+            <p>
+            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_WEB" title="QuickCapture SDK documentation">Getting started WEB</a></b>
+            </p>
+        </td> 
     </tr>
 </table>
-
+ <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_WEB" title="QuickCapture SDK documentation">QuickCapture WEB</a></b>
+ </br>
 Extrieve QuickCapture SDK can be **easily integrated into mobile or web applications**, enabling them to use the camera on their mobile device as a dependable method of document scanning or capture. Optimized focus control ensure the capture of high-quality documents. Compression and conversion features help reduce the size of documents, which results in quicker uploads and infrastructure savings.
 
 
