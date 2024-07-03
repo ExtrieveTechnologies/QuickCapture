@@ -63,31 +63,31 @@ Document capturing has increased due to digitization. This has led to new challe
         <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/android_icon.svg" alt="QuickCapture SDK Getting started Android"/>
             <p>
-            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_Android" title="QuickCapture SDK documentation">Getting started Android</a></b>
+            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_Android" title="QuickCapture SDK documentation">Start With Android</a></b>
             </p>
         </td>
         <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/ios_icon.svg" alt="QuickCapture SDK Gettting started iOS"/>
             <p>
-            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_IOS" title="QuickCapture SDK documentation">Getting started iOS</br></br></a></b>
+            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_IOS" title="QuickCapture SDK documentation">Start With iOS</a></b>
             </p>
         </td>
         <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/react_native_icon.svg" alt="QuickCapture SDK Gettting started React Native"/>
             <p>
-            <b><a href="https://www.npmjs.com/package/@extrieve_technologies/quickcapture_react_native" title="QuickCapture SDK documentation">Getting started React Native</a></b>
+            <b><a href="https://www.npmjs.com/package/@extrieve_technologies/quickcapture_react_native" title="QuickCapture SDK documentation">Start With React Native</a></b>
             </p>
         </td>
          <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/flutter_icon.svg" alt="QuickCapture SDK Gettting started Flutter"/>
             <p>
-            <b><a href="https://pub.dev/packages/quickcapture" title="QuickCapture SDK documentation">Getting started Flutter</a></b>
+            <b><a href="https://pub.dev/packages/quickcapture" title="QuickCapture SDK documentation">Start With Flutter</a></b>
             </p>
         </td> 
          <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/flutter_icon.svg" alt="QuickCapture SDK Gettting started Flutter"/>
             <p>
-            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_WEB" title="QuickCapture SDK documentation">Getting started WEB</a></b>
+            <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_WEB" title="QuickCapture SDK documentation">Start With WEB</a></b>
             </p>
         </td> 
     </tr>
