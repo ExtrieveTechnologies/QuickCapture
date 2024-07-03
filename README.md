@@ -26,7 +26,7 @@
         <td align="center" width="20%" style="border:0px; width:20%">
             <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/IMG_CTRL.svg" alt="QuickCapture SDK Easy integration"/>
             <p>
-            <b>Optical Code (QR Code & BAR Code) Features</b>
+            <b>QR Code & BAR Code Features</b>
             </p>
             <p>
                 Optical Code(QR Code & BAR Code) Generation & Scanning</br></br>
