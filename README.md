@@ -23,15 +23,6 @@
                 Control DPI, Layout & Size of output images, PDF & TIFF</br></br>
             </p>
         </td>
-        <td align="center" width="20%" style="border:0px; width:20%">
-            <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/IMG_CTRL.svg" alt="QuickCapture SDK Easy integration"/>
-            <p>
-            <b>QR Code & BAR Code Features</b>
-            </p>
-            <p>
-                Optical Code(QR Code & BAR Code) Generation & Scanning</br></br>
-            </p>
-        </td>
          <td align="center" width="20%" style="border:0px; width:20%">
             <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/SECURE.svg" alt="QuickCapture SDK Guaranteed data security"/>
             <p>
