@@ -77,7 +77,7 @@ Document capturing has increased due to digitization. This has led to new challe
             </p>
         </td> 
          <td align="center" width="14%" style="border:0px; width:14%">
-            <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/flutter_icon.svg" alt="QuickCapture SDK Gettting started Flutter"/>
+            <img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/web_icon.svg" alt="QuickCapture SDK Gettting started Flutter"/>
             <p>
             <b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_WEB" title="QuickCapture SDK documentation">Start With WEB</a></b>
             </p>
