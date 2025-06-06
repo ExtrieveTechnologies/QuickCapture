@@ -85,7 +85,7 @@ Document capturing has increased due to digitization. This has led to new challe
     </tr>
 </table>
  </br>
-Extrieve QuickCapture SDK can be **easily integrated into mobile or web applications**, enabling them to use the camera on their mobile device as a dependable method of document scanning or capture. Optimized focus control ensure the capture of high-quality documents. Compression and conversion features help reduce the size of documents, which results in quicker uploads and infrastructure savings.
+Extrieve QuickCapture SDK can be easily integrated into mobile or web applications, enabling them to use the camera on their mobile device as a dependable method of document scanning or capture. Optimized focus control ensure the capture of high-quality documents. Compression and conversion features help reduce the size of documents, which results in quicker uploads and infrastructure savings.
 
 
 [© 1996 - 2024 Extrieve Technologies](https://www.extrieve.com/)
