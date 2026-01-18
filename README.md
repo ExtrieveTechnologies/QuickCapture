@@ -1,7 +1,7 @@
 <img class="img-fluid" align="center" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/QuickCapture.png?raw=true" width="30%" alt="img-verification">
 <!-- <a align="center" href='https://play.google.com/store/apps/details?id=com.extrieve.exScan&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' title="Click to download android app" target="_blank" rel="noopener noreferrer"><img align="center" width="150px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a> -->
 
-# QuickCapture Ai Document scanning SDK.
+# QuickCapture Ai Document scanning & imaging SDK.
 
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
