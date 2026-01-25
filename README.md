@@ -15,7 +15,7 @@ alt="QuickCapture AI Document Scanning SDK logo">
 
 # QuickCapture AI Document Scanning & Imaging SDK
 
-**QuickCapture** is an **AI-powered document scanning and imaging SDK** for **Android, iOS, Web, Flutter, and React Native** applications.  
+**QuickCapture** is an **AI-powered document scanning , imaging & Seccurity SDK** for **Android, iOS, Web, Flutter, and React Native** applications.  
 It enables **offline document capture**, **intelligent image enhancement**, **compression**, and **PDF/TIFF conversion**, all processed **securely on-device** without server dependency.
 
 
