@@ -1,6 +1,15 @@
 <img class="img-fluid" align="center" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/QuickCapture.png?raw=true" width="30%" alt="img-verification">
 <!-- <a align="center" href='https://play.google.com/store/apps/details?id=com.extrieve.exScan&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' title="Click to download android app" target="_blank" rel="noopener noreferrer"><img align="center" width="150px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a> -->
-
+<p align="left">
+  <a href="https://github.com/ExtrieveTechnologies"><b>🏠 Extrieve GitHub Home</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.extrieve.com"><b>🌐 Website</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://docs.extrieve.in/"><b>📘 Docs</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions"><b>💬 Discussions</b></a>
+</p>
+    
 # QuickCapture Ai Document scanning & imaging SDK.
 
 <table width="100%"  style="border:0px solid white; width:100%;">
