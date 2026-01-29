@@ -177,7 +177,7 @@ The **Extrieve QuickCapture SDK** addresses these challenges with **offline AI**
         partnerships, or joint development?
       </p>
       <p>
-        <a href="https://www.extrieve.com/contact/#contactForm" target="_blank"><b>Connect with Extrieve →</b></a>
+        <a href="https://contact.extrieve.com?ptype=QuickCapture_General" target="_blank"><b>Connect with Extrieve →</b></a>
       </p>
     </td>
   </tr>
