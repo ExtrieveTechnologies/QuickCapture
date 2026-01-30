@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/orgs/ExtrieveTechnologies/discussions"><img src="https://img.shields.io/badge/Community-Discussions-purple?style=flat&logo=github" alt="Community" /></a>
+  <a href="https://github.com/badges/shields/discussions" alt="Discussions"><img src="https://img.shields.io/github/discussions/badges/shields" /></a>
   <a href="https://contact.extrieve.com?ptype=QC"><img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
 
