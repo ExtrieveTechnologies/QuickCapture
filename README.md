@@ -48,7 +48,7 @@ It enables **offline document capture**, **intelligent image enhancement**, **co
   </tr>
 </table>
 
-## Document Scanning SDK for Business Applications
+## Document Scanning , Imaging & Seccurity SDK for Business Applications
 
 Document capture volumes are increasing rapidly due to digitization.  
 Poor capture quality leads to **recaptures**, **manual effort**, and **customer dissatisfaction**, while also increasing **storage and network costs**.
