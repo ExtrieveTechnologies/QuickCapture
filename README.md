@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ExtrieveTechnologies"><img src="https://img.shields.io/badge/GitHub-Extrieve%20Org-181717?style=flat&logo=github" alt="GitHub Org" /></a>
   <a href="https://github.com/ExtrieveTechnologies/QuickCapture"><img src="https://img.shields.io/badge/Repo-QuickCapture-blue?style=flat&logo=github" alt="QuickCapture Repo" /></a>
-  <a href="https://www.extrieve.com"><img src="https://img.shields.io/badge/Website-extrieve.com-0A66C2?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.extrieve.com"><img src="https://img.shields.io/badge/Website-extrieve.com-0A66C2?style=flat&logo=google-chrome&logoColor=white" alt="Web" /></a>
   <a href="https://www.linkedin.com/company/extrieve"><img src="https://img.shields.io/badge/LinkedIn-Extrieve-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://blog.extrieve.com/"><img src="https://img.shields.io/badge/Blog-Extrieve%20Insights-FF6F00?style=flat&logo=blogger&logoColor=white" alt="Blog" /></a>
 </p>
