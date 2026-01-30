@@ -13,7 +13,7 @@ alt="QuickCapture AI Document Scanning SDK logo">
   <a href="https://github.com/orgs/ExtrieveTechnologies/discussions"><b>💬 Discussions</b></a>
 </p>
 
-# QuickCapture AI Document Scanning & Imaging SDK
+# QuickCapture AI based Document Scanning , Imaging & Security SDK
 
 **QuickCapture** is an **AI-powered document scanning , imaging & Seccurity SDK** for **Android, iOS, Web, Flutter, and React Native** applications.  
 It enables **offline document capture**, **intelligent image enhancement**, **compression**, and **PDF/TIFF conversion**, all processed **securely on-device** without server dependency.
@@ -48,7 +48,7 @@ It enables **offline document capture**, **intelligent image enhancement**, **co
   </tr>
 </table>
 
-## Document Scanning , Imaging & Seccurity SDK for Business Applications
+## Document Scanning , Imaging & Security SDK for Business Applications
 
 Document capture volumes are increasing rapidly due to digitization.  
 Poor capture quality leads to **recaptures**, **manual effort**, and **customer dissatisfaction**, while also increasing **storage and network costs**.
