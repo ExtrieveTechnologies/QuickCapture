@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/orgs/ExtrieveTechnologies/discussions"><img src="https://img.shields.io/badge/Community-Discussions-purple?style=flat&logo=github" alt="Community" /></a>
   <a href="https://github.com/badges/shields/discussions" alt="Discussions"><img src="https://img.shields.io/github/discussions/badges/shields" /></a>
-  <a href="https://contact.extrieve.com?ptype=QC"><img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" alt="Contact" /></a>
+  <a href="https://contact.extrieve.com?ptype=QC-Home"><img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
 
 
@@ -114,25 +114,25 @@ The **Extrieve QuickCapture SDK** addresses these challenges with **offline AI**
 
   <a href="https://docs.extrieve.in/" target="_blank">
     <img alt="Documentation"
-         src="https://img.shields.io/badge/📘%20Documentation-APIs%20%26%20SDKs-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white">
+         src="https://img.shields.io/badge/%20Documentation-APIs%20%26%20SDKs-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
   &nbsp;
 
   <a href="https://github.com/orgs/ExtrieveTechnologies/discussions" target="_blank">
     <img alt="Community"
-         src="https://img.shields.io/badge/💬%20Community-Open%20Discussions-6f42c1?style=for-the-badge&logo=github&logoColor=white">
+         src="https://img.shields.io/badge/%20Community-Open%20Discussions-6f42c1?style=for-the-badge&logo=github&logoColor=white">
   </a>
   &nbsp;
 
   <a href="https://play.google.com/store/apps/details?id=com.extrieve.demo" target="_blank">
     <img alt="Android Demo"
-         src="https://img.shields.io/badge/📱%20Extrieve%20DEMO%20APP-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
+         src="https://img.shields.io/badge/%20Extrieve%20DEMO%20APP-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
   </a>
   &nbsp;
 
   <a href="https://contact.extrieve.com?ptype=QuickCapture_General" target="_blank">
     <img alt="Contact"
-         src="https://img.shields.io/badge/🤝%20Connect-Talk%20to%20Us-00b894?style=for-the-badge&logo=gmail&logoColor=white">
+         src="https://img.shields.io/badge/%20Connect-Talk%20to%20Us-00b894?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 </div>
@@ -180,7 +180,7 @@ The **Extrieve QuickCapture SDK** addresses these challenges with **offline AI**
         partnerships, or joint development?
       </p>
       <p>
-        <a href="https://contact.extrieve.com?ptype=QuickCapture_General" target="_blank"><b>Contact our team →</b></a>
+        <a href="https://contact.extrieve.com?ptype=QC_Home" target="_blank"><b>Contact our team →</b></a>
       </p>
     </td>
   </tr>
@@ -197,6 +197,6 @@ The **Extrieve QuickCapture SDK** addresses these challenges with **offline AI**
 
 <p align="center">
   <sub>
-    © 1996–2025 <a href="https://www.extrieve.com/">Extrieve Technologies</a>. All rights reserved.
+    © 1996–2026 <a href="https://www.extrieve.com/">Extrieve Technologies</a>. All rights reserved.
   </sub>
 </p
