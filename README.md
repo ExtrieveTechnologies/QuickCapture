@@ -1,28 +1,20 @@
-<img class="img-fluid" align="center"
-src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/QuickCapture.png?raw=true"
-width="30%"
-alt="QuickCapture AI Document Scanning SDK logo">
+<p align="center">
+  <img class="img-fluid" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/QuickCapture.png?raw=true" width="30%" alt="QuickCapture AI Document Scanning SDK logo">
+</p>
 
 <p align="center">
-  <a href="https://github.com/ExtrieveTechnologies">
-    <img src="https://img.shields.io/badge/GitHub-Extrieve-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://github.com/ExtrieveTechnologies/QuickCapture">
-    <img src="https://img.shields.io/badge/Repo-QuickCapture-blue?style=flat&logo=github" />
-  </a>
-  <a href="https://www.extrieve.com">
-    <img src="https://img.shields.io/badge/Website-extrieve.com-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://docs.extrieve.in/">
-    <img src="https://img.shields.io/badge/Docs-Developer%20Portal-informational?style=flat&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions">
-    <img src="https://img.shields.io/badge/Community-Discussions-purple?style=flat&logo=github" />
-  </a>
-  <a href="https://contact.extrieve.com?ptype=QCANDROID">
-    <img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" />
-  </a>
+  <a href="https://github.com/ExtrieveTechnologies"><img src="https://img.shields.io/badge/GitHub-Extrieve%20Org-181717?style=flat&logo=github" alt="GitHub Org" /></a>
+  <a href="https://github.com/ExtrieveTechnologies/QuickCapture"><img src="https://img.shields.io/badge/Repo-QuickCapture-blue?style=flat&logo=github" alt="QuickCapture Repo" /></a>
+  <a href="https://www.extrieve.com"><img src="https://img.shields.io/badge/Website-extrieve.com-0A66C2?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/company/extrieve"><img src="https://img.shields.io/badge/LinkedIn-Extrieve-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://blog.extrieve.com/"><img src="https://img.shields.io/badge/Blog-Extrieve%20Insights-FF6F00?style=flat&logo=blogger&logoColor=white" alt="Blog" /></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions"><img src="https://img.shields.io/badge/Community-Discussions-purple?style=flat&logo=github" alt="Community" /></a>
+  <a href="https://contact.extrieve.com?ptype=QC"><img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" alt="Contact" /></a>
+</p>
+
 
 # QuickCapture AI based Document Scanning , Imaging & Security SDK
 
@@ -30,7 +22,7 @@ alt="QuickCapture AI Document Scanning SDK logo">
 It enables **offline document capture**, **intelligent image enhancement**, **compression**, and **PDF/TIFF conversion**, all processed **securely on-device** without server dependency.
 
 
-<table width="100%" style="border:0px solid white; width:100%;">
+<table align="center" width="100%" style="border:0px solid white; width:100%;">
   <tr>
     <td align="center" width="20%">
       <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/AI_DOC.svg"
@@ -118,24 +110,18 @@ The **Extrieve QuickCapture SDK** addresses these challenges with **offline AI**
 <br/>
 
 <div align="center">
-
-  <a href="https://www.extrieve.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/🌐%20Website-extrieve.com-blue?style=for-the-badge">
-  </a>
-  &nbsp;
-
-  <a href="https://docs.extrieve.in/" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/📘%20Docs-APIs%20%26%20SDKs-informational?style=for-the-badge">
-  </a>
-  &nbsp;
-
-  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions" target="_blank">
+    <a href="https://github.com/orgs/ExtrieveTechnologies/discussions" target="_blank">
     <img alt="Community" src="https://img.shields.io/badge/💬%20Community-Open%20Discussions-purple?style=for-the-badge">
   </a>
   &nbsp;
 
   <a href="https://play.google.com/store/apps/details?id=com.extrieve.demo" target="_blank">
     <img alt="Android Demo" src="https://img.shields.io/badge/📱%20Mobile%20Demo-Android%20SDK-brightgreen?style=for-the-badge">
+  </a>
+  &nbsp;
+  
+  <a href="https://docs.extrieve.in/" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/📘%20Docs-APIs%20%26%20SDKs-informational?style=for-the-badge">
   </a>
   &nbsp;
 
