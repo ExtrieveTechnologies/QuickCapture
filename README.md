@@ -174,7 +174,7 @@ The **Extrieve QuickCapture SDK** addresses these challenges with **offline AI**
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 Work With Extrieve</h3>
+      <h3>🏢 Contact Us</h3>
       <p>
         Interested in evaluation, enterprise integration,
         partnerships, or joint development?
