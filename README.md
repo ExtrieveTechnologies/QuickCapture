@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://github.com/ExtrieveTechnologies"><img src="https://img.shields.io/badge/GitHub-Extrieve%20Org-181717?style=flat&logo=github" alt="GitHub Org" /></a>
   <a href="https://github.com/ExtrieveTechnologies/QuickCapture"><img src="https://img.shields.io/badge/Repo-QuickCapture-blue?style=flat&logo=github" alt="QuickCapture Repo" /></a>
-  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions?discussions_q="><img src="https://img.shields.io/badge/Community-Discussions & Technical support-purple?style=flat&logo=github" alt="Community" /></a>
+  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions/categories/technical-support?discussions_q="><img src="https://img.shields.io/badge/Community-Discussions & Technical support-purple?style=flat&logo=github" alt="Community" /></a>
   <a href="https://contact.extrieve.com?ptype=QC-Home"><img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" alt="Contact" /></a>
 </p>
 
