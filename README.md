@@ -1,185 +1,132 @@
 <p align="left">
-  <img class="img-fluid" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/QuickCapture.png?raw=true" width="30%" alt="QuickCapture AI Document Scanning SDK logo">
+  <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/QuickCapture.png?raw=true" width="30%" alt="QuickCapture document scanning SDK logo">
 </p>
 
-<p align="left">
-  <a href="https://github.com/ExtrieveTechnologies"><img src="https://img.shields.io/badge/GitHub-Extrieve%20Org-181717?style=flat&logo=github" alt="GitHub Org" /></a>
-  <a href="https://github.com/ExtrieveTechnologies/QuickCapture"><img src="https://img.shields.io/badge/Repo-QuickCapture-blue?style=flat&logo=github" alt="QuickCapture Repo" /></a>
-  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions/categories/technical-support?discussions_q="><img src="https://img.shields.io/badge/Community-Discussions & Technical support-purple?style=flat&logo=github" alt="Community" /></a>
-  <a href="https://contact.extrieve.com?ptype=QC-Home"><img src="https://img.shields.io/badge/Contact-Talk%20to%20Us-success?style=flat&logo=maildotru&logoColor=white" alt="Contact" /></a>
-</p>
+# QuickCapture: Document Scanning SDK for Android, iOS, Flutter, React Native and Web
 
+**QuickCapture** is Extrieve's document scanning and imaging SDK. It turns a phone camera, a browser or a TWAIN scanner into a document capture point: it captures the page, crops and cleans it, compresses it, and outputs JPEG, PDF or TIFF. Capture and processing run on the device, so documents are not sent to a server to be processed.
 
-# QuickCapture AI based Document Scanning , Imaging & Security SDK
+[Product page](https://www.extrieve.com/platforms/quickcapture/) · [Documentation](https://docs.extrieve.in/) · [Android demo app](https://play.google.com/store/apps/details?id=com.extrieve.demo) · [Discussions](https://github.com/orgs/ExtrieveTechnologies/discussions/categories/technical-support) · [Contact](https://www.extrieve.com/contact/)
 
-**QuickCapture** is an **AI-powered document scanning , imaging & Seccurity SDK** for **Android, iOS, Web, Flutter, and React Native** applications.  
-It enables **offline document capture**, **intelligent image enhancement**, **compression**, and **PDF/TIFF conversion**, all processed **securely on-device** without server dependency.
-
-
-<table align="center" width="100%" style="border:0px solid white; width:100%;">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/AI_DOC.svg"
-           alt="AI-powered document capture and image optimization SDK">
-      <p><b>AI Powered</b></p>
-      <p>AI-based capture, identification, compression, optimisation & conversion.</p>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/IMG_CTRL.svg"
-           alt="Control DPI layout and output size for scanned documents">
-      <p><b>Complete Control over Image</b></p>
-      <p>Control DPI, layout & output size of images, PDF & TIFF.</p>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/SECURE.svg"
-           alt="Offline secure document scanning SDK with no data upload">
-      <p><b>Guaranteed Data Security</b></p>
-      <p>Works completely offline. No data transfer to servers or third parties.</p>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/DEV_FR.svg"
-           alt="Developer-friendly document scanning SDK integration">
-      <p><b>Developer-Friendly Integration</b></p>
-      <p>Fast and easy integration using ready-to-use UI components.</p>
-    </td>
-  </tr>
-</table>
-
-## Get Started with Your Platform
-
-<table style="border:0px solid white;">
-  <tr>
-    <td align="center" width="14%">
-      <img width="35%"
-           src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/android_icon.svg"
-           alt="Android document scanning SDK">
-      <p><b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_Android">Start With Android</a></b></p>
-    </td>
-    <td align="center" width="14%">
-      <img width="35%"
-           src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/ios_icon.svg"
-           alt="iOS document scanning SDK">
-      <p><b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_IOS">Start With iOS</a></b></p>
-    </td>
-    <td align="center" width="14%">
-      <img width="35%"
-           src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/react_native_icon.svg"
-           alt="React Native document scanning SDK">
-      <p><b><a href="https://www.npmjs.com/package/@extrieve_technologies/quickcapture_react_native">Start With React Native</a></b></p>
-    </td>
-    <td align="center" width="14%">
-      <img width="35%"
-           src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/flutter_icon.svg"
-           alt="Flutter document scanning SDK">
-      <p><b><a href="https://pub.dev/packages/quickcapture">Start With Flutter</a></b></p>
-    </td>
-    <td align="center" width="14%">
-      <img width="35%"
-           src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/web_icon.svg"
-           alt="Web document scanning SDK">
-      <p><b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_WEB">Start With WEB</a></b></p>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<h2 align="center">🌍 Explore • Build • Collaborate</h2>
-
-<p align="center">
-  Whether you are evaluating, integrating, or contributing —
-  there are many ways to engage with Extrieve.
-</p>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://docs.extrieve.in/" target="_blank">
-    <img alt="Documentation"
-         src="https://img.shields.io/badge/%20Documentation-APIs%20%26%20SDKs-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white">
-  </a>
-  &nbsp;
-
-  <a href="https://github.com/orgs/ExtrieveTechnologies/discussions" target="_blank">
-    <img alt="Community"
-         src="https://img.shields.io/badge/%20Community-Open%20Discussions-6f42c1?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
-
-  <a href="https://play.google.com/store/apps/details?id=com.extrieve.demo" target="_blank">
-    <img alt="Android Demo"
-         src="https://img.shields.io/badge/%20Extrieve%20DEMO%20APP-34A853?style=for-the-badge&logo=googleplay&logoColor=white">
-  </a>
-  &nbsp;
-
-  <a href="https://contact.extrieve.com?ptype=QuickCapture_General" target="_blank">
-    <img alt="Contact"
-         src="https://img.shields.io/badge/%20Connect-Talk%20to%20Us-00b894?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-</div>
-
-<br/>
+## Choose your platform
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧑‍💻 For Developers</h3>
-      <p>
-        Access SDKs, APIs, and integration guides designed for real-world,
-        production-scale deployments.
-      </p>
-      <p>
-        <a href="https://docs.extrieve.in/" target="_blank"><b>Get started with documentation →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 Open Collaboration</h3>
-      <p>
-        Ask questions, propose ideas, share feedback, or discuss use cases
-        directly with the Extrieve team.
-      </p>
-      <p>
-        <a href="https://github.com/orgs/ExtrieveTechnologies/discussions" target="_blank"><b>Join GitHub Discussions →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📲 Experience the SDK</h3>
-      <p>
-        Try our Android demo app to explore document capture and AI features
-        in action.
-      </p>
-      <p>
-        <a href="https://play.google.com/store/apps/details?id=com.extrieve.demo" target="_blank"><b>View Android demo app →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 Contact Us</h3>
-      <p>
-        Interested in evaluation, enterprise integration,
-        partnerships, or joint development?
-      </p>
-      <p>
-        <a href="https://contact.extrieve.com?ptype=QC_Home" target="_blank"><b>Contact our team →</b></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="20%">
+<img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/android_icon.svg" alt="QuickCapture Android document scanning SDK">
+<p><b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_Android">Android</a></b></p>
+</td>
+<td align="center" width="20%">
+<img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/ios_icon.svg" alt="QuickCapture iOS document scanning SDK">
+<p><b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_IOS">iOS</a></b></p>
+</td>
+<td align="center" width="20%">
+<img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/react_native_icon.svg" alt="QuickCapture React Native document scanning SDK">
+<p><b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_react_native">React Native</a></b></p>
+</td>
+<td align="center" width="20%">
+<img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/flutter_icon.svg" alt="QuickCapture Flutter document scanning SDK">
+<p><b><a href="https://pub.dev/packages/quickcapture">Flutter</a></b></p>
+</td>
+<td align="center" width="20%">
+<img width="35%" src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/web_icon.svg" alt="QuickCapture Web document scanning SDK">
+<p><b><a href="https://github.com/ExtrieveTechnologies/QuickCapture_WEB">Web</a></b></p>
+</td>
+</tr>
 </table>
 
+| Platform | Where to start | Languages |
+| --- | --- | --- |
+| Android | [QuickCapture_Android](https://github.com/ExtrieveTechnologies/QuickCapture_Android) | Java, Kotlin |
+| iOS | [QuickCapture_IOS](https://github.com/ExtrieveTechnologies/QuickCapture_IOS) | Swift, Objective-C |
+| React Native | [QuickCapture_react_native](https://github.com/ExtrieveTechnologies/QuickCapture_react_native) · [npm package](https://www.npmjs.com/package/@extrieve_technologies/quickcapture_react_native) · [Expo sample](https://github.com/ExtrieveTechnologies/QuickCapture_react_native_expo_sample) | JavaScript, TypeScript |
+| Flutter | [quickcapture on pub.dev](https://pub.dev/packages/quickcapture) | Dart |
+| Web | [QuickCapture_WEB](https://github.com/ExtrieveTechnologies/QuickCapture_WEB) | JavaScript |
+| Server and desktop | [ImageWizHelper](https://github.com/ExtrieveTechnologies/ImageWizHelper) (QuickCapture Native Imaging SDK) | Java, C# |
 
-<br/>
+Package installs:
 
-<p align="center">
-  <i>
-    Open to collaboration. Built for enterprise. Designed with developers in mind.
-  </i>
-</p>
+```bash
+# React Native
+npm install @extrieve_technologies/quickcapture_react_native
 
-<p align="center">
-  <sub>
-    © 1996–2026 <a href="https://www.extrieve.com/">Extrieve Technologies</a>. All rights reserved.
-  </sub>
-</p
+# Flutter
+flutter pub add quickcapture
+```
+
+For Android, iOS and Web, follow the setup steps in each repository's README.
+
+## What it does
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/AI_DOC.svg" alt="Document capture and image optimisation">
+<p><b>Capture built for documents</b></p>
+<p>Document detection, auto-crop and image optimisation at capture time.</p>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/IMG_CTRL.svg" alt="Control DPI, layout and output size">
+<p><b>Control over output</b></p>
+<p>Set DPI, page layout and output size for images, PDF and TIFF.</p>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/SECURE.svg" alt="Offline on-device document scanning">
+<p><b>Works offline</b></p>
+<p>Capture and processing run on the device, with no data sent to servers or third parties.</p>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/ExtrieveTechnologies/QuickCapture/blob/main/img/DEV_FR.svg" alt="Ready-to-use UI components for integration">
+<p><b>Quick to integrate</b></p>
+<p>Ready-to-use capture UI components for each platform.</p>
+</td>
+</tr>
+</table>
+
+- **Document capture:** a camera tuned for documents, with focus handling, shake detection and guidance for framing the page.
+- **Image clean-up:** auto-crop, black and white or greyscale conversion, and shadow and noise removal.
+- **Compression:** reduces image size by up to 90% while keeping documents readable, so uploads are faster and storage use is lower.
+- **Conversion:** builds single-page or multi-page PDF and TIFF output directly, as well as JPEG.
+- **QR and barcode:** scanning and generation.
+- **Web scanning:** scan from a web page with standard TWAIN scanners, compressing before upload.
+
+## Common uses
+
+- Customer onboarding and KYC document capture in mobile apps
+- Loan and account-opening document collection by field and branch teams
+- Scanning from the browser into document management and workflow systems
+- Reducing image size before upload to cut bandwidth and storage
+
+## Frequently asked questions
+
+**Which platforms does QuickCapture support?**
+Android, iOS, React Native, Flutter and Web. A server and desktop imaging SDK for Windows and Linux is available as ImageWizHelper.
+
+**Does QuickCapture work offline?**
+Yes. Capture, image processing, compression and conversion run on the device.
+
+**Which output formats are supported?**
+JPEG, PDF and TIFF, including multi-page PDF and TIFF.
+
+**Can I control DPI and file size?**
+Yes. You can set the DPI, page layout and output size of the generated files.
+
+**How is QuickCapture licensed?**
+QuickCapture is a commercial SDK. The mobile app licence covers deployment on unlimited devices for one application. For pricing or an evaluation licence, see the [product page](https://www.extrieve.com/platforms/quickcapture/) or write to [devsupport@extrieve.com](mailto:devsupport@extrieve.com).
+
+## Related SDKs
+
+- [SplicerAI](https://github.com/ExtrieveTechnologies/SplicerAi): KYC and document data extraction, classification and Aadhaar masking
+- [ImageWizHelper](https://github.com/ExtrieveTechnologies/ImageWizHelper): server and desktop image compression and conversion
+- [SDK demo app](https://github.com/ExtrieveTechnologies/SDK_DEMO_APP): Android app showing the SDK features
+
+## Support
+
+- **Documentation:** [docs.extrieve.in](https://docs.extrieve.in/)
+- **Technical questions:** [GitHub Discussions](https://github.com/orgs/ExtrieveTechnologies/discussions/categories/technical-support)
+- **Developer support:** [devsupport@extrieve.com](mailto:devsupport@extrieve.com)
+- **Sales and evaluation:** [extrieve.com/contact](https://www.extrieve.com/contact/)
+
+---
+
+© 1996–2026 [Extrieve Technologies](https://www.extrieve.com/). All rights reserved.
